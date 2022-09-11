@@ -1,0 +1,6 @@
+Implementación del patrón MVC como patrón de diseño base
+Implementación del patrón Decorator
+Módulos:
+1-Pedidos
+2-Procesamiento de pedidos
+3-Login
